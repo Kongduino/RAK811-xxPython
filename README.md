@@ -31,4 +31,8 @@ Le manuel AT Firmware est [ici](https://docs.rakwireless.com/Product-Categories/
 
   **Mode réception**
 
+![CoolTerm](CoolTerm.png)
+
 Il faut donc changer de mode pour envoyer et recevoir, ce qui est peu testirompteur, mais on s'y fait. En fait le mieux est de mettre la puce en mode réception et de faire comme ci-dessus : mode transmission, envoi, mode réception.
+
+![CubicSDR](CubicSDR.png)
